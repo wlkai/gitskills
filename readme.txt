@@ -1,0 +1,1 @@
+This is test, by  janus, to learn Git.
